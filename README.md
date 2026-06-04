@@ -4,7 +4,7 @@
 - 🎓 MS in Computer Science from Syracuse University
 - 💻 Software Engineer with 2+ years building full-stack applications and AI-powered tools
 - 🛠️ I love building things that actually get used — from RAG pipelines to iOS apps
-- 🌱 Always learning — currently exploring LLMs, Swift, and system design
+- 🌱 Always learning — currently exploring LLMs, Swift, and System Design
 
 ---
 
