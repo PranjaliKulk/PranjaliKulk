@@ -1,6 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Pranjali+👋)](https://git.io/typing-svg)
 
-> Software Engineer with 2+ years of experience building backend systems, test automation frameworks, and AI-powered tooling across Python, Java, AWS, and GCP
+# Hi, I'm Pranjali 👋 Welcome to my GitHub!
+
+## About Me
+- 🎓 MS in Computer Science from Syracuse University
+- 💻 Software Engineer with 2+ years building full-stack applications and AI-powered tools
+- 🛠️ I love building things that actually get used — from RAG pipelines to iOS apps
+- 🌱 Always learning — currently exploring LLMs, Swift, and system design
 
 ---
 
